@@ -179,4 +179,4 @@ Os endpoints devem ser testados com Postman, Insomnia ou Thunder Client, contemp
 
 ## Autor
 
-Desenvolvido por **[SEU NOME]** como atividade acadêmica da disciplina de Desenvolvimento Back-end.
+Desenvolvido por **Anny Brandão Leite** como atividade acadêmica da disciplina de Desenvolvimento Back-end.
